@@ -1,0 +1,25 @@
+Practicing with the git flow. 
+
+* fork 
+
+* clone 
+
+    git clone <your-repo-address>
+
+
+Create a branch
+
+    cd <repo directory>
+    git checkout -b 'firstname-lastname'
+
+
+Push your new branch up to GitHub 
+
+    git push -u origin firstname-lastname
+
+
+
+Compare & Pull Request -> Base: YOUR MASTER (Not the Lambda Master)
+compare fork: YOUR FORK
+
+* [ add TL ] 
